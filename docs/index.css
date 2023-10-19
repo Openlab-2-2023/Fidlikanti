@@ -1,1 +1,9 @@
-h1 
+.pre {
+    font-size: x-large;
+}
+
+h2 { 
+    font-family: monospace;
+    font-size: 35px;
+    text-align: right;
+}
